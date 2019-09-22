@@ -1,0 +1,1 @@
+minergate-cli --user felixantony1999@gmail.com --xmr 1
